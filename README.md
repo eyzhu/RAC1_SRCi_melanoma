@@ -1,11 +1,5 @@
 # Zhu et al. npj 2022 Analysis
 
-## Table of Contents
-
-* [Overview](#overview)
-* [Analysis](#analysis)
-* [Contributors](#contributors)
-
 ## Overview
 * Repo for custom scripts used in manuscript __*SRC-RAC1 signaling drives drug resistance to BRAF inhibition in de-differentiated cutaneous melanomas*__.
 * Folders are named for the analysis that correspond to each figure.
